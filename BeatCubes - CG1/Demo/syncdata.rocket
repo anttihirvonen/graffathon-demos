@@ -1,0 +1,136 @@
+<sync rows="2555">
+	<tracks>
+		<track name="startWaves">
+			<key row="212" value="1" interpolation="0"/>
+		</track>
+		<track name="startSong">
+			<key row="274" value="1" interpolation="0"/>
+		</track>
+		<track name="x">
+			<key row="14" value="21" interpolation="0"/>
+			<key row="17" value="19" interpolation="0"/>
+			<key row="19" value="15" interpolation="0"/>
+			<key row="21" value="12" interpolation="0"/>
+			<key row="23" value="31" interpolation="0"/>
+			<key row="25" value="1" interpolation="0"/>
+			<key row="27" value="3" interpolation="0"/>
+			<key row="29" value="5" interpolation="0"/>
+			<key row="31" value="18" interpolation="0"/>
+			<key row="33" value="4" interpolation="0"/>
+			<key row="35" value="2" interpolation="0"/>
+			<key row="37" value="19" interpolation="0"/>
+			<key row="39" value="39" interpolation="0"/>
+			<key row="41" value="11" interpolation="0"/>
+			<key row="43" value="4" interpolation="0"/>
+			<key row="45" value="1" interpolation="0"/>
+			<key row="47" value="25" interpolation="0"/>
+			<key row="49" value="21" interpolation="0"/>
+			<key row="51" value="0" interpolation="0"/>
+		</track>
+		<track name="y">
+			<key row="14" value="21" interpolation="0"/>
+			<key row="17" value="19" interpolation="0"/>
+			<key row="19" value="16" interpolation="0"/>
+			<key row="21" value="12" interpolation="0"/>
+			<key row="23" value="31" interpolation="0"/>
+			<key row="25" value="1" interpolation="0"/>
+			<key row="27" value="3" interpolation="0"/>
+			<key row="29" value="12" interpolation="0"/>
+			<key row="31" value="5" interpolation="0"/>
+			<key row="33" value="12" interpolation="0"/>
+			<key row="35" value="1" interpolation="0"/>
+			<key row="37" value="25" interpolation="0"/>
+			<key row="39" value="25" interpolation="0"/>
+			<key row="41" value="18" interpolation="0"/>
+			<key row="43" value="16" interpolation="0"/>
+			<key row="45" value="4" interpolation="0"/>
+			<key row="47" value="25" interpolation="0"/>
+			<key row="49" value="9" interpolation="0"/>
+			<key row="51" value="0" interpolation="0"/>
+		</track>
+		<track name="flashColor"/>
+		<track name="flashColorBlue">
+			<key row="96" value="255" interpolation="0"/>
+			<key row="100" value="0" interpolation="0"/>
+			<key row="105" value="255" interpolation="0"/>
+			<key row="109" value="0" interpolation="0"/>
+			<key row="113" value="255" interpolation="0"/>
+			<key row="117" value="0" interpolation="0"/>
+			<key row="121" value="255" interpolation="0"/>
+			<key row="125" value="0" interpolation="0"/>
+			<key row="129" value="255" interpolation="0"/>
+			<key row="134" value="0" interpolation="0"/>
+			<key row="137" value="255" interpolation="0"/>
+			<key row="141" value="0" interpolation="0"/>
+			<key row="155" value="255" interpolation="0"/>
+			<key row="159" value="0" interpolation="0"/>
+			<key row="164" value="255" interpolation="0"/>
+			<key row="168" value="0" interpolation="0"/>
+			<key row="172" value="255" interpolation="0"/>
+			<key row="176" value="0" interpolation="0"/>
+			<key row="180" value="255" interpolation="0"/>
+			<key row="184" value="0" interpolation="0"/>
+			<key row="188" value="255" interpolation="0"/>
+			<key row="193" value="0" interpolation="0"/>
+			<key row="196" value="255" interpolation="0"/>
+			<key row="200" value="0" interpolation="0"/>
+		</track>
+		<track name="flashColorRed">
+			<key row="96" value="100" interpolation="0"/>
+			<key row="100" value="255" interpolation="0"/>
+			<key row="105" value="100" interpolation="0"/>
+			<key row="109" value="255" interpolation="0"/>
+			<key row="113" value="100" interpolation="0"/>
+			<key row="117" value="255" interpolation="0"/>
+			<key row="121" value="100" interpolation="0"/>
+			<key row="125" value="255" interpolation="0"/>
+			<key row="129" value="100" interpolation="0"/>
+			<key row="134" value="255" interpolation="0"/>
+			<key row="137" value="100" interpolation="0"/>
+			<key row="141" value="255" interpolation="0"/>
+			<key row="155" value="100" interpolation="0"/>
+			<key row="159" value="255" interpolation="0"/>
+			<key row="164" value="100" interpolation="0"/>
+			<key row="168" value="255" interpolation="0"/>
+			<key row="172" value="100" interpolation="0"/>
+			<key row="176" value="255" interpolation="0"/>
+			<key row="180" value="100" interpolation="0"/>
+			<key row="184" value="255" interpolation="0"/>
+			<key row="188" value="100" interpolation="0"/>
+			<key row="193" value="255" interpolation="0"/>
+			<key row="196" value="100" interpolation="0"/>
+			<key row="200" value="255" interpolation="0"/>
+		</track>
+		<track name="flashColorGreen">
+			<key row="96" value="150" interpolation="0"/>
+			<key row="100" value="0" interpolation="0"/>
+			<key row="105" value="150" interpolation="0"/>
+			<key row="109" value="0" interpolation="0"/>
+			<key row="113" value="150" interpolation="0"/>
+			<key row="117" value="0" interpolation="0"/>
+			<key row="121" value="150" interpolation="0"/>
+			<key row="125" value="0" interpolation="0"/>
+			<key row="129" value="150" interpolation="0"/>
+			<key row="134" value="0" interpolation="0"/>
+			<key row="137" value="150" interpolation="0"/>
+			<key row="141" value="0" interpolation="0"/>
+			<key row="155" value="150" interpolation="0"/>
+			<key row="159" value="0" interpolation="0"/>
+			<key row="164" value="150" interpolation="0"/>
+			<key row="168" value="0" interpolation="0"/>
+			<key row="172" value="150" interpolation="0"/>
+			<key row="176" value="0" interpolation="0"/>
+			<key row="180" value="150" interpolation="0"/>
+			<key row="184" value="0" interpolation="0"/>
+			<key row="188" value="150" interpolation="0"/>
+			<key row="193" value="0" interpolation="0"/>
+			<key row="196" value="150" interpolation="0"/>
+			<key row="200" value="0" interpolation="0"/>
+		</track>
+		<track name="flashRowLoop">
+			<key row="0" value="1" interpolation="0"/>
+			<key row="259" value="0" interpolation="0"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>

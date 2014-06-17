@@ -1,0 +1,39 @@
+<sync rows="5000">
+	<tracks>
+		<track name="lintujen_luonti">
+			<key row="32" interpolation="1" value="0"/>
+			<key row="768" interpolation="0" value="46"/>
+		</track>
+		<track name="lintujen_liike">
+			<key row="768" interpolation="0" value="1"/>
+			<key row="800" interpolation="0" value="-1"/>
+			<key row="824" interpolation="0" value="1"/>
+			<key row="832" interpolation="0" value="-1"/>
+			<key row="896" interpolation="0" value="1"/>
+			<key row="928" interpolation="0" value="1"/>
+		</track>
+		<track name="yleiset">
+			<key row="0" interpolation="0" value="0"/>
+			<key row="32" interpolation="0" value="1"/>
+			<key row="512" interpolation="0" value="3"/>
+			<key row="768" interpolation="0" value="2"/>
+			<key row="1024" interpolation="0" value="4"/>
+			<key row="1280" interpolation="0" value="6"/>
+			<key row="1776" interpolation="0" value="5"/>
+		</track>
+		<track name="kameraZ">
+			<key row="16" interpolation="1" value="3000"/>
+			<key row="208" interpolation="1" value="1000"/>
+			<key row="512" interpolation="0" value="1300"/>
+		</track>
+		<track name="lintujen_siivet"/>
+		<track name="pikkulinnut">
+			<key row="16" interpolation="1" value="5"/>
+			<key row="1024" interpolation="1" value="5"/>
+			<key row="1280" interpolation="1" value="100"/>
+			<key row="1776" interpolation="0" value="0"/>
+		</track>
+		<track name="kameraY"/>
+	</tracks>
+	<bookmarks/>
+</sync>

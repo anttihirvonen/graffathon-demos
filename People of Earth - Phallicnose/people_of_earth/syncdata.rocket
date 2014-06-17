@@ -1,0 +1,119 @@
+<sync rows="128">
+	<tracks>
+		<track name="alku">
+			<key value="1" interpolation="0" row="0"/>
+			<key value="0" interpolation="0" row="10"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="sky">
+			<key value="1" interpolation="0" row="18"/>
+			<key value="1" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="82"/>
+			<key value="0" interpolation="0" row="88"/>
+		</track>
+		<track name="floor">
+			<key value="1" interpolation="0" row="18"/>
+			<key value="1" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="82"/>
+			<key value="0" interpolation="0" row="88"/>
+		</track>
+		<track name="planet">
+			<key value="0" interpolation="0" row="0"/>
+			<key value="1" interpolation="0" row="18"/>
+			<key value="0" interpolation="0" row="27"/>
+			<key value="1" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="82"/>
+			<key value="0" interpolation="0" row="88"/>
+		</track>
+		<track name="mountain">
+			<key value="1" interpolation="0" row="18"/>
+			<key value="0" interpolation="0" row="27"/>
+			<key value="1" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="41"/>
+			<key value="1" interpolation="0" row="50"/>
+			<key value="0" interpolation="0" row="57"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="monster">
+			<key value="1" interpolation="0" row="18"/>
+			<key value="0" interpolation="0" row="27"/>
+			<key value="1" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="41"/>
+			<key value="1" interpolation="0" row="50"/>
+			<key value="0" interpolation="0" row="57"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="etu">
+			<key value="1" interpolation="0" row="27"/>
+			<key value="0" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="57"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="hirvioetu1">
+			<key value="1" interpolation="0" row="41"/>
+			<key value="0" interpolation="0" row="50"/>
+			<key value="0" interpolation="0" row="57"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="hirvioetu">
+			<key value="1" interpolation="0" row="57"/>
+			<key value="0" interpolation="0" row="65"/>
+			<key value="1" interpolation="0" row="67"/>
+			<key value="0" interpolation="0" row="68"/>
+			<key value="1" interpolation="0" row="69"/>
+			<key value="0" interpolation="0" row="70"/>
+			<key value="1" interpolation="0" row="71"/>
+			<key value="0" interpolation="0" row="72"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="tahti">
+			<key value="1" interpolation="0" row="27"/>
+			<key value="0" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="silmat">
+			<key value="1" interpolation="0" row="65"/>
+			<key value="1" interpolation="0" row="68"/>
+			<key value="0" interpolation="0" row="69"/>
+			<key value="1" interpolation="0" row="70"/>
+			<key value="0" interpolation="0" row="71"/>
+			<key value="1" interpolation="0" row="72"/>
+			<key value="0" interpolation="0" row="75"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="tahdet2">
+			<key value="1" interpolation="0" row="0"/>
+			<key value="0" interpolation="0" row="10"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="alus">
+			<key value="0" interpolation="0" row="0"/>
+			<key value="0" interpolation="0" row="2"/>
+			<key value="1" interpolation="0" row="10"/>
+			<key value="0" interpolation="0" row="18"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="ukkeli">
+			<key value="1" interpolation="0" row="18"/>
+			<key value="0" interpolation="0" row="27"/>
+			<key value="1" interpolation="0" row="34"/>
+			<key value="0" interpolation="0" row="41"/>
+			<key value="1" interpolation="0" row="50"/>
+			<key value="0" interpolation="0" row="57"/>
+			<key value="0" interpolation="0" row="82"/>
+		</track>
+		<track name="ruumis">
+			<key value="1" interpolation="0" row="75"/>
+			<key value="1" interpolation="0" row="82"/>
+		</track>
+		<track name="puu">
+			<key value="1" interpolation="0" row="82"/>
+			<key value="0" interpolation="0" row="88"/>
+		</track>
+		<track name="loppu">
+			<key value="0" interpolation="0" row="82"/>
+			<key value="1" interpolation="0" row="88"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
