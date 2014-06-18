@@ -1,6 +1,6 @@
 **This repository contains sources for all demos released at Graffathon 2014 (http://graffathon.fi).**
 
-See [voting sesults](http://www.graffathon.fi/downloads/results.txt) for the final order in the competition.
+See [voting results](http://www.graffathon.fi/downloads/results.txt) for the final order in the competition.
 
 If you want to run the demos on your own machine, do the following:
 
