@@ -1,12 +1,12 @@
 Fourier birds and realtime 2D ray tracing by Eläkeläisturistit
 
-Groupin jäsenet:
+Group members:
 Krista
 Taija
 
-Työkalut:
+Tools:
 Processing + Rocket + Moonlander.
 
 Musiikki: Line Noise - Passive Cyclone part lll
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

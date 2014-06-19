@@ -1,14 +1,14 @@
 People of Earth by Phallicnose
 
-Groupin jäsenet:
+Group members:
 ratking, mousequeen
 
 Kuvaus/tekniikat:
 hieno avaruus. vektorikuvia
 
-Työkalut:
+Tools:
 processing 2, adobe illustrator
 
 Musiikki: Spahni - The Digital Age
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

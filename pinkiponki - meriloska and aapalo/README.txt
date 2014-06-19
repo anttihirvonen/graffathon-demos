@@ -1,12 +1,12 @@
 pinkiponki by meriloska & aapalo 
 
-Tekniikat/kuvaus:
+Techniques/description (in Finnish):
 Basic processing opettelua/testailua
 
-Työkalut:
+Tools:
 Processing/moonlander/rocket
 Biisiä leikattiin audacityllä.
 
 Biisinä Auquid - Expanding Universes (&jamando)
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

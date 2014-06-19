@@ -1,15 +1,15 @@
 Crystallized by Blackbird
 
-Groupin jäsenet:
+Group members:
 Sottka
 
-Tekniikat/kuvaus:
+Techniques/description (in Finnish):
 Pääosin rekursiolla muodostettuja kappaleita kristalli-teemalla.
 
-Työkalut:
+Tools:
 Processing
 
 soundtrack: Lost Dream by Atomic Cat
 http://www.jamendo.com/en/track/794181/lost-dreams
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

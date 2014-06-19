@@ -1,14 +1,14 @@
 Melkeen sama. by Ihan sama, joo
 
-Groupin jäsenet:
+Group members:
 Henrik Hillner
 Rasmus Eskola
 Jonathan Granskog
 
-Tekniikat:
+Techniques:
 Himmee processointi
 
-Työkalut:
+Tools:
 Processing, blender
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

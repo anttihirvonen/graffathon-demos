@@ -1,8 +1,8 @@
 EXTREME EXTREMISM by Decent Odds
 
-Groupin jäsenet:
+Group members:
 Crank, Flamero
 
 Biisi CCE ruuvvaus_8
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

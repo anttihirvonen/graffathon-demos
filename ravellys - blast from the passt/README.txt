@@ -1,14 +1,14 @@
 ravellys by blast from the passt
 
-Groupin jäsenet:
+Group members:
 No2theLag, JeyHey
 
-Tekniikat:
+Techniques:
 sin(); ja fill(); purkkasolutions-tekniikka
 
-Työkalut:
+Tools:
 Processing
 
 Musiikki: Larry Rum Band - Casual teens, artistin luvalla
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

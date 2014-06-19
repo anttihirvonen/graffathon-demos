@@ -1,12 +1,12 @@
 BeatCubes by CG1
 
-Groupin jäsenet:
+Group members:
 aatos, echo
 
-Tekniikat/kuvaus:
+Techniques/description (in Finnish):
 FFT:n avulla musiikin kanssa liikkuvia kuutiota.
 
-Työkalut:
+Tools:
 Processing, GNU Rocket, Moonlander
 
 Musiikki: Rune Factory - 8 Bit Adventurer (CC BY 3.0)
@@ -14,4 +14,4 @@ Musiikki: Rune Factory - 8 Bit Adventurer (CC BY 3.0)
 Dial-up -modeemin ääni (Public Domain)
  - http://en.wikipedia.org/wiki/File:Dial_up_modem_noises.ogg
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

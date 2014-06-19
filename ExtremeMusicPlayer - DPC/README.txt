@@ -1,13 +1,13 @@
 ExtremeMusicPlayer by DPC
 
-Groupin jäsenet:
+Group members:
 Christian da Costa
 Pauli Tuovinen
 
-Työkalut:
+Tools:
 Processing
 
 Lainatut materiaalit:
 Zanimationin pohjamalli
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

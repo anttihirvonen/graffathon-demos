@@ -1,6 +1,6 @@
 Rocket into danger by demogurp
 
-Groupin jäsenet:
+Group members:
 lollero
 jonux
 
@@ -8,10 +8,10 @@ Kuvaus, tekniikat:
 Avaruusaiheinen demo, jossa on oldschool tunneliefektejä ja 3d-pyöritystä.
 Kasattiin hyvän spacesynth biisin ympärille. 
 
-Työkalut:
+Tools:
 Windows + toxiclibrary
 
 Musiikki: Cosmoride by Dreamtime
 Loppumusiikki: The darkesh hour by zero project
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

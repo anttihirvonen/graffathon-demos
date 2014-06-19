@@ -1,14 +1,14 @@
 Univaje by UnknownPotato
 
-Groupin jäsenet:
+Group members:
 VoxWave
 Serdion
 a544jh
 
-Työkalut:
+Tools:
 Processing, GNU Rocket ja Moonlander
 
 Kilpikonna SVG: http://clipartist.net/links/clipartist.net/turtle_animal_lemmling.svg
 Fontti: https://www.google.com/fonts/specimen/Press+Start+2P
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

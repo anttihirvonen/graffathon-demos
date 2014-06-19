@@ -1,14 +1,14 @@
 Not a Cube of Confusion by Black Box
 
-Groupin jäsenet:
+Group members:
 Avalon_, Kaurakeksi, D4rt
 
 Kuvaus/tekniikat:
 Hieno demo. Tietokone.
 
-Työkalut:
+Tools:
 Processing
 
 Musiikki: NightFlyer-NeXuS (Jamendosta)
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

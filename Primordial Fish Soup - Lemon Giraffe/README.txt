@@ -1,15 +1,15 @@
 Primordial Fish Soup by Lemon Giraffe
 
-Groupin jäsenet:
+Group members:
 Firesong ja Jasu
 
-Tekniikat:
+Techniques:
 Morphaus: Ääriviivat syötetty käsin, koodi interpoloi ne saman mittaisiksi ja interpoloi eri otusten välillä lineaarisesti.
 
-Työkalut:
+Tools:
 Processing, ddf.minim
 
 Lainattu materiaali:
 Demopohja (Antti Hirvonen), Lucida Handwriting -fontti
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

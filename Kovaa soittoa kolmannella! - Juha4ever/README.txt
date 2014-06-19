@@ -1,14 +1,14 @@
 Kovaa soittoa kolmannella! by Juha4ever
 
-Groupin jäsenet:
+Group members:
 badcunt & goodcod
 
 Käytettyihin tekniikoihin lukeutuivat mm. msqrt ja sooda
 
-Työkalut: 
+Tools: 
 paint4ever
 
 Muualta lainattu materiaali:
 youtube4ever
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014

@@ -4,14 +4,14 @@ Groupin mukana olleet jäsenet:
 Jawbreaker
 Kakka
 
-Tekniikat:
+Techniques:
 PHP + HTML5 + Three.js + Javascript
 
-Työkalut:
+Tools:
 Google Chrome, Three.js, Photoshop, Illustrator
 https://github.com/naali/damones
 
 Musiikki: Tempest
 Kuvat: H7 & Norppa
 
-Julkaistu Graffathonissa
+Released at Graffathon 2014
