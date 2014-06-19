@@ -1,12 +1,12 @@
 They're Out There by Gluster
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 Kitai, Lumian, ahihi
 
 Tekniikat:
 Processing, GLSL, Reason
 
-Työkalut:
+TyÃ¶kalut:
 Windows, Processing, Reason, Shadertoy
 
 Julkaistu Graffathonissa

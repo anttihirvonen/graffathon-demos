@@ -1,11 +1,11 @@
 Univaje by UnknownPotato
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 VoxWave
 Serdion
 a544jh
 
-Työkalut:
+TyÃ¶kalut:
 Processing, GNU Rocket ja Moonlander
 
 Kilpikonna SVG: http://clipartist.net/links/clipartist.net/turtle_animal_lemmling.svg

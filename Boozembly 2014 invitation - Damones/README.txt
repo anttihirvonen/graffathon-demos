@@ -1,13 +1,13 @@
 Boozembly 2014 invitation by Damones
 
-Groupin mukana olleet jäsenet:
+Groupin mukana olleet jÃ¤senet:
 Jawbreaker
 Kakka
 
 Tekniikat:
 PHP + HTML5 + Three.js + Javascript
 
-Työkalut:
+TyÃ¶kalut:
 Google Chrome, Three.js, Photoshop, Illustrator
 https://github.com/naali/damones
 

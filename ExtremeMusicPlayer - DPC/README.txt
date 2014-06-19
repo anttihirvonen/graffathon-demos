@@ -1,10 +1,10 @@
 ExtremeMusicPlayer by DPC
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 Christian da Costa
 Pauli Tuovinen
 
-Työkalut:
+TyÃ¶kalut:
 Processing
 
 Lainatut materiaalit:

@@ -1,14 +1,14 @@
 Rocket into danger by demogurp
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 lollero
 jonux
 
 Kuvaus, tekniikat:
-Avaruusaiheinen demo, jossa on oldschool tunneliefektejä ja 3d-pyöritystä.
-Kasattiin hyvän spacesynth biisin ympärille. 
+Avaruusaiheinen demo, jossa on oldschool tunneliefektejÃ¤ ja 3d-pyÃ¶ritystÃ¤.
+Kasattiin hyvÃ¤n spacesynth biisin ympÃ¤rille. 
 
-Työkalut:
+TyÃ¶kalut:
 Windows + toxiclibrary
 
 Musiikki: Cosmoride by Dreamtime

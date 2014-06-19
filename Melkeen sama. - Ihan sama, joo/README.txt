@@ -1,6 +1,6 @@
 Melkeen sama. by Ihan sama, joo
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 Henrik Hillner
 Rasmus Eskola
 Jonathan Granskog
@@ -8,7 +8,7 @@ Jonathan Granskog
 Tekniikat:
 Himmee processointi
 
-Työkalut:
+TyÃ¶kalut:
 Processing, blender
 
 Julkaistu Graffathonissa

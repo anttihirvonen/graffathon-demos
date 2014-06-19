@@ -1,11 +1,11 @@
 Kovaa soittoa kolmannella! by Juha4ever
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 badcunt & goodcod
 
-Käytettyihin tekniikoihin lukeutuivat mm. msqrt ja sooda
+KÃ¤ytettyihin tekniikoihin lukeutuivat mm. msqrt ja sooda
 
-Työkalut: 
+TyÃ¶kalut: 
 paint4ever
 
 Muualta lainattu materiaali:

@@ -1,10 +1,10 @@
-Fourier birds and realtime 2D ray tracing by Eläkeläisturistit
+Fourier birds and realtime 2D ray tracing by ElÃ¤kelÃ¤isturistit
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 Krista
 Taija
 
-Työkalut:
+TyÃ¶kalut:
 Processing + Rocket + Moonlander.
 
 Musiikki: Line Noise - Passive Cyclone part lll

@@ -3,10 +3,10 @@ pinkiponki by meriloska & aapalo
 Tekniikat/kuvaus:
 Basic processing opettelua/testailua
 
-Tyˆkalut:
+Ty√∂kalut:
 Processing/moonlander/rocket
-Biisi‰ leikattiin audacityll‰.
+Biisi√§ leikattiin audacityll√§.
 
-Biisin‰ Auquid - Expanding Universes (&jamando)
+Biisin√§ Auquid - Expanding Universes (&jamando)
 
 Julkaistu Graffathonissa

@@ -1,9 +1,9 @@
-Mitä kävi viime yönä by Xywzel
+MitÃ¤ kÃ¤vi viime yÃ¶nÃ¤ by Xywzel
 
 Tekniikat:
-Jotain pixel buffer overflow kikkailuita ja blur effectejä
+Jotain pixel buffer overflow kikkailuita ja blur effectejÃ¤
 
-Työkalut:
+TyÃ¶kalut:
 Processing
 
 Musiikki: David_TMX - Intro chiante (2004) (c) Creative Commons

@@ -1,17 +1,17 @@
 Birds by Skeletor
 
-Groupin jäsenet:
+Groupin jÃ¤senet:
 John the Beautiful Danger 
 Mr. Golabi
 
 Kuvaus/tekniikat:
-MITÄ?
+MITÃ„?
 
-Työkalut:
+TyÃ¶kalut:
 rocket ja moonlander
 
 Skeletorin kuva:
 http://www.ebay.com/itm/Skeletor-Skeletor-Laughing-He-man-t-shirt-Official-FAST-SHIP-/200918939660
-Biisi ite tekemä
+Biisi ite tekemÃ¤
 
 Julkaistu Graffathonissa

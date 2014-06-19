@@ -1,12 +1,12 @@
 Crystallized by Blackbird
 
-Groupin j‰senet:
+Groupin j√§senet:
 Sottka
 
 Tekniikat/kuvaus:
-P‰‰osin rekursiolla muodostettuja kappaleita kristalli-teemalla.
+P√§√§osin rekursiolla muodostettuja kappaleita kristalli-teemalla.
 
-Tyˆkalut:
+Ty√∂kalut:
 Processing
 
 soundtrack: Lost Dream by Atomic Cat

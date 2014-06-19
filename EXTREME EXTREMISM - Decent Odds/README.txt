@@ -1,6 +1,6 @@
 EXTREME EXTREMISM by Decent Odds
 
-Groupin j‰senet:
+Groupin j√§senet:
 Crank, Flamero
 
 Biisi CCE ruuvvaus_8
